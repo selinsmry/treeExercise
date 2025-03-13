@@ -38,5 +38,7 @@ The program reads a postfix expression (e.g., "43-12+*"), constructs an expressi
     *  
     - +  
     4 3 1 2
-     
+
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
